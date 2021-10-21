@@ -1,0 +1,32 @@
+body{
+    background-color: aliceblue
+}
+
+.container{
+    display: inline-block;
+    padding-right: 5em;
+    padding-left: 5em;
+    padding-top: 2em;
+    padding-bottom: 3em;
+    margin-left: 38em;
+    border-radius: 1em;
+    background-color: white;
+    margin-top: 130px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #888888 ;
+}
+
+.textfield{
+    height: 2.3em;
+    width: 18em;
+    margin: 0.2em;
+}
+.buttonfield{
+    height: 3em;
+    width: 18em;
+    margin-top: 1em;
+    background-color: #282c34;
+    color: aliceblue;
+    border-radius: 1em;
+   
+}
