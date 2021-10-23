@@ -1,10 +1,10 @@
 import React from "react";
-import top from 'C://Users//Mrunmayi//Desktop//Real_Estate_2.0//realestate//src//images//top.png';
+import top from 'C://git_repo//Real_Estate_Management_System//realestate//src//images//top.png';
 import './Landingpage.css';
-import house from 'C://Users//Mrunmayi//Desktop//Real_Estate_2.0//realestate//src//images//hero.png';
-import divya from 'C://Users//Mrunmayi//Desktop//Real_Estate_2.0//realestate//src//images//Insha.png';
-import harshita from 'C://Users//Mrunmayi//Desktop//Real_Estate_2.0//realestate//src//images//divya.png';
-import insha from 'C://Users//Mrunmayi//Desktop//Real_Estate_2.0//realestate//src//images//harshita.png'; 
+import house from 'C://git_repo//Real_Estate_Management_System//realestate//src//images//hero.png';
+import Insha from 'C://git_repo//Real_Estate_Management_System//realestate//src//images//Insha.png';
+import divya from 'C://git_repo//Real_Estate_Management_System//realestate//src//images//divya.png';
+import harshita from 'C://git_repo//Real_Estate_Management_System//realestate//src//images//harshita.png'; 
 
 const Landingpage = () => {
 
@@ -49,7 +49,7 @@ const Landingpage = () => {
                 <div className='works'>
                 <h1>TESTIMONALS</h1>
                 <div className='subworks'>
-                <img className='top' src={insha} /> 
+                <img className='top' src={Insha} /> 
                 </div>
                 <div className='subworks'>
                 <img className='top' src={harshita} /> 
